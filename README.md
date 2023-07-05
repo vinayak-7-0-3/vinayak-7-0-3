@@ -54,7 +54,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=vinayak-7-0-3&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak-7-0-3&bg_color=000000&color=09ebfb&line=05ffb4&point=403d3d&area=true&hide_border=true"/>
 </p>
 
 <hr>
