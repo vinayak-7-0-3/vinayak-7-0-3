@@ -1,19 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinayak-7-0-3.vinayak-7-0-3">
 
-## Hello There 👋
+# Hello There 👋
 
-### - I'm Vinayak Mundakkal
-### - A CS student at ASIET, Kerala, India
+- **I'm Vinayak Mundakkal**
+- **A CS student at ASIET, Kerala, India**
 
-### Well I don't know what all to tell  more as introduction 😓
+**Well I don't know what all to tell  more as introduction 😓**
 
-</br>
+# My Hobbies :
+- **Watching Anime**
+- **Playing Genshin Impact**
+- **Photography**
 
-## My Hobbies :
-- ### Watching Anime
-- ### Playing Genshin Impact
-- ### Photography
-</br>
 
 # Languages & Frameworks & Tools & Abilities :
 <div align='center'>
@@ -33,7 +31,6 @@
 
 ### Trying to add more things here 😁
 
-</br>
 
 ## My Stats 🔥
 </br>
