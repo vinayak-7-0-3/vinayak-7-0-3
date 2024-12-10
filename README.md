@@ -1,19 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinayak-7-0-3.vinayak-7-0-3">
 
-# Hello There 👋
+## Hello There 👋
 
-## - I'm Vinayak Mundakkal
-## - A CS student at ASIET, Kerala, India
-</br>
+### - I'm Vinayak Mundakkal
+### - A CS student at ASIET, Kerala, India
 
 ### Well I don't know what all to tell  more as introduction 😓
 
 </br>
 
-# My Hobbies :
-- ## Watching Anime
-- ## Playing Genshin Impact
-- ## Photography
+## My Hobbies :
+- ### Watching Anime
+- ### Playing Genshin Impact
+- ### Photography
 </br>
 
 # Languages & Frameworks & Tools & Abilities :
@@ -32,28 +31,21 @@
 
 </br>
 
-## Trying to add more things here 😁
+### Trying to add more things here 😁
 
 </br>
 
-# My Stats 🔥
+## My Stats 🔥
 </br>
-<p align=center>
-  <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinayak-7-0-3&theme=whatsapp-dark" alt="GitHub Streak" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vinayak-7-0-3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-7-0-3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak-7-0-3&bg_color=000000&color=09ebfb&line=05ffb4&point=403d3d&area=true&hide_border=true"/>
-</p>
+<div align=center>
+    <a href="https://git.io/streak-stats"><img width=650 src="https://streak-stats.demolab.com?user=vinayak-7-0-3&theme=whatsapp-dark" alt="GitHub Streak" /></a>
+</div>
+<div align=center>
+      <img width=370 src="https://github-readme-stats.vercel.app/api?username=vinayak-7-0-3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-7-0-3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak-7-0-3&bg_color=000000&color=09ebfb&line=05ffb4&point=403d3d&area=true&hide_border=true"/>
 
 <hr>
 
@@ -64,7 +56,12 @@
 </br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/vinayak-7-0-3/Tidal-DL-Telegram" title="Tidal DL Bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/vinayak-7-0-3/AIO-Music-Helper" title="AIO-Music-Helper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/vinayak-7-0-3/Tidal-DL-Telegram" title="Tidal DL Bot">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+    <a align="right" href="https://github.com/vinayak-7-0-3/AIO-Music-Helper" title="AIO-Music-Helper">
+        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10">
+    </a>
 </div>
 
 <br><br><br><br><br><br>
