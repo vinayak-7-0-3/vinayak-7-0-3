@@ -3,7 +3,7 @@
 # Hello There 👋
 
 - **I'm Vinayak Mundakkal**
-- **A CS student at ASIET, Kerala, India**
+- **A CS student from Kerala, India**
 
 **Well I don't know what all to tell  more as introduction 😓**
 
@@ -21,10 +21,8 @@
     <img title="CSS" height="55" src="images/css.svg">
     <img title="PostgreSQL" height="55" src="images/postgresql.svg">
     <img title="Visual Studio Code" height="55" src="images/vscode.png">
-    <img title="Microsoft Visual Studio" height="55" src="images/visualstudio.png">
     <img title="GitHub" height="55" src="images/github.svg">
     <img title="MySQL" height="55" src="images/mysql.svg">
-    <img title="PHP" height="55" src="images/php.svg">
 </div>
 
 </br>
@@ -38,7 +36,7 @@
     <a href="https://git.io/streak-stats"><img width=650 src="https://streak-stats.demolab.com?user=vinayak-7-0-3&theme=whatsapp-dark" alt="GitHub Streak" /></a>
 </div>
 <div align=center>
-      <img width=370 src="https://github-readme-stats.vercel.app/api?username=vinayak-7-0-3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=370 src="https://readme-stats-ten-psi.vercel.app/api?username=vinayak-7-0-3&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       <img width=280 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-7-0-3&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 <br>
@@ -52,14 +50,24 @@
 
 </br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/vinayak-7-0-3/Tidal-DL-Telegram" title="Tidal DL Bot">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="https://github.com/vinayak-7-0-3/Tidal-DL-Telegram" title="Tidal DL Bot">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10">
   </a>
-    <a align="right" href="https://github.com/vinayak-7-0-3/AIO-Music-Helper" title="AIO-Music-Helper">
-        <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10">
-    </a>
+  <a href="https://github.com/vinayak-7-0-3/AIO-Music-Helper" title="AIO-Music-Helper">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/vinayak-7-0-3/Project-Siesta" title="Project-Siesta">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Project-Siesta&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/vinayak-7-0-3/Shizuru" title="Shizuru">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/vinayak-7-0-3/Shizuru-Frontend" title="Shizuru-Frontend">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Frontend&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
+
 
 <br><br><br><br><br><br>
 
