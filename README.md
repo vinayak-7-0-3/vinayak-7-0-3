@@ -61,7 +61,7 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Project-Siesta&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/Shizuru" title="Shizuru">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Backend&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/Shizuru-Frontend" title="Shizuru-Frontend">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Frontend&theme=react&border_color=61dafb&border_radius=10">
