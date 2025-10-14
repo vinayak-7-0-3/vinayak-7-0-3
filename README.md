@@ -1,6 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinayak-7-0-3.vinayak-7-0-3">
-
 # Hello There 👋
+[![wakatime](https://wakatime.com/badge/user/b88dede6-2fc6-44f0-a8fd-84dedd313683.svg)](https://wakatime.com/@b88dede6-2fc6-44f0-a8fd-84dedd313683)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=vinayak-7-0-3.vinayak-7-0-3)](https://visitor-badge.laobi.icu/badge?page_id=vinayak-7-0-3.vinayak-7-0-3)
+
 
 - **I'm Vinayak Mundakkal**
 - **A CS student from Kerala, India**
