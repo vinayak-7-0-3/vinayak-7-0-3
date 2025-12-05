@@ -53,19 +53,19 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <a href="https://github.com/vinayak-7-0-3/Tidal-DL-Telegram" title="Tidal DL Bot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://readme-stats-ten-psi.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Tidal-DL-Telegram&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/AIO-Music-Helper" title="AIO-Music-Helper">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://readme-stats-ten-psi.vercel.app/api/pin/?username=vinayak-7-0-3&repo=AIO-Music-Helper&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/Project-Siesta" title="Project-Siesta">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Project-Siesta&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://readme-stats-ten-psi.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Project-Siesta&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/Shizuru" title="Shizuru">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Backend&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://readme-stats-ten-psi.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Backend&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/vinayak-7-0-3/Shizuru-Frontend" title="Shizuru-Frontend">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Frontend&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://readme-stats-ten-psi.vercel.app/api/pin/?username=vinayak-7-0-3&repo=Shizuru-Frontend&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
